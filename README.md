@@ -8,7 +8,7 @@
 
 ---
 
-现负责人员[2023 第六届]：👩‍💻李茹宣[^Profile^](https://github.com/LeeXxxddd)，👨‍💻卢毅[^Profile^](https://github.com/yinjiuzui)，👨‍💻刘恩宇[^Profile^](https://github.com/Liuenyu688)，👨‍💻喻文磊[^Profile^](https://github.com/XGZ-cyber)；
+现负责人员[2023 第六届]：👩‍💻李茹宣[^Profile^](https://github.com/LeeXxxddd)，👨‍💻卢毅[^Profile^](https://github.com/yinjiuzui)，👨‍💻刘恩宇[^Profile^](https://github.com/Liuenyu688)，👨‍💻喻文磊[^Profile^](https://github.com/XGZ-cyber)，👨‍💻郭峰[^Profile^](https://github.com/fendoudefeng)；
 
 往届负责人：
 
